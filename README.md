@@ -12,8 +12,8 @@ Features
 
 #### Clone the repository:
 
-    git clone git@github.com:Elfarahidy-AI/arabic-spelling-detection-and-correction.git
-   
+    git clone https://github.com/Elfarahidy-AI/arabic-spelling-detection-and-correction.git
+    
 #### Install the required dependencies:
 
     pip install -r requirements.txt
